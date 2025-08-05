@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 from pydantic import BaseModel
-from app.services.pathumma import generate_text
+from services.pathumma import generate_text
 from typing import Optional
 
 router = APIRouter()
