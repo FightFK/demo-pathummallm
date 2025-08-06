@@ -1,10 +1,10 @@
-# API | PATHUMMA DEMO
+##API | PATHUMMA DEMO
 
 # 📦 Requirements
-Python
-Git
+- Python (https://www.python.org/)
+- Git (https://git-scm.com/)
 
-#Setup
+##Setup
 ไปยัง Directory ที่ต้องการจะติดตั้งโปรเจ็ค Demo
 
 ```bash
