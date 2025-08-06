@@ -1,4 +1,4 @@
-##API | PATHUMMA DEMO
+# API | PATHUMMA DEMO
 
 # 📦 Requirements
 - Python (https://www.python.org/)
